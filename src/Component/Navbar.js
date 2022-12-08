@@ -9,12 +9,15 @@ const stylenav=()=>{
 }
   return (
     <>
- <div className="nav"> 
+ <div className="nav" > 
             <ul>
             <div id="title1">
                 
                 <li>
+                <a href='#home'>
+
                     <h2><span>Port</span>folio</h2>
+                </a>
                     </li>
             </div>
             

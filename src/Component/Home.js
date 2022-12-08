@@ -47,7 +47,7 @@ export const Home=()=> {
         
            <Navbar/>
            
-           <div className='imagebox'  >
+           <div className='imagebox'  id='home' >
            <div className='text' >
            <h1>Poonam Kumari</h1>
 
